@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "444752260811",
+    "firebase_url": "https://rideme-8f5dd-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "rideme-8f5dd",
+    "storage_bucket": "rideme-8f5dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444752260811:android:ab53df5f05dc4ff17af54e",
+        "android_client_info": {
+          "package_name": "com.exp.rideme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444752260811-de0hr7c5mes4lvk4q59c8erslh1cvie9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhm2k3fi1l8E7Uf1zKZ5GNjyk_07MfI1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444752260811-de0hr7c5mes4lvk4q59c8erslh1cvie9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
